@@ -1,0 +1,13 @@
+Göstərici adları “Brüt” və ya “Net” sözlərindən birindən, ardından “Milli” və ya “Daxili” sözlərindən birini, ardından “Məhsul”, “Gəlir” və ya “Xərcləmə” sözlərindən birini təşkil edir. ". Bütün bu şərtlər ayrıca izah edilə bilər.
+
+“Brüt”, sonradan istifadə olunmasından asılı olmayaraq məcmu məhsul deməkdir.
+“Net” amortizasiyanı kompensasiya etmək üçün istifadə ediləcək məbləğ çıxılmaqla “Brüt” deməkdir, yəni. ölkənin əsas fondlarının pisləşməsi və ya köhnəlməsi. Şəbəkə, məhsulun nə qədərinin istehlak və ya yeni sərmayə üçün mövcud olduğunu göstərir.
+“Daxili” sərhədin coğrafi olması deməkdir: kimin olmasından asılı olmayaraq bir ölkə daxilində istehsal olunan bütün mal və xidmətləri sayırıq.
+"Milli" sərhədin vətəndaşlıq (milliyyət) tərəfindən təyin olunduğunu bildirir. Bu istehsalın fiziki olaraq həyata keçirilməsindən asılı olmayaraq, ölkə vətəndaşları (və ya sahib olduqları müəssisələr) tərəfindən istehsal olunan bütün mal və xidmətləri nəzərə alırıq.
+Seneqalda bir Fransıza məxsus bir pambıq fabrikinin çıxışı Seneqalın daxili göstəricilərinin bir hissəsi olaraq, Fransanın milli göstəriciləri olaraq qeyd olunur.
+
+"Məhsul", "Gəlir" və "Xərclər" əvvəllər təsvir olunan üç hesablama metodologiyasına aiddir: məhsul, gəlir və xərc yanaşmaları. Ancaq terminlər aydın şəkildə istifadə edilmir.
+“Məhsul” üç yanaşmadan hər hansı biri həqiqətən istifadə edildikdə tez-tez istifadə olunan ümumi bir termindir. Bəzən metodologiyanı göstərmək üçün əlavə bir simvol və ya cümlə ilə “Məhsul” sözü istifadə olunur; buna görə, məsələn, "Gəlirlə Ümumi Daxili Məhsul", "ÜDM (gəlir)", "ÜDM (I)" və buna bənzər konstruksiyalar əldə edirik.
+“Gəlir” konkret olaraq gəlir yanaşmasından istifadə olunduğunu bildirir.
+“Xərcləmə” xüsusi olaraq bir xərcləmə yanaşmasından istifadə olunduğunu bildirir.
+Diqqət yetirin ki, hər üç sayma metodu nəzəri olaraq eyni yekun dəyəri verməlidir. Lakin praktikada üç metod, inventar səviyyələrindəki dəyişikliklər və statistik səhvlər daxil olmaqla bir neçə səbəbdən incə fərqlər yaradır. Məsələn, bir problem anbardakı əşyaların istehsal edildiyi (bu səbəbdən Məhsula daxil edilmiş), lakin hələ satılmamasıdır (bu səbəbdən xərclərə hələ daxil edilməyib). Bu kimi vaxt məsələləri, həm də istehsal olunan malların (məhsulun) dəyəri ilə bu malları istehsal edən amillərə (gəlir) ödəmələr arasında, xüsusən də mənbələr kreditlə satın alındığı təqdirdə və həmçinin əmək haqqı müəyyən bir istehsal müddətindən sonra tez-tez tutulduğu üçün kiçik bir uyğunsuzluğa səbəb ola bilər.
