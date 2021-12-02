@@ -7,8 +7,8 @@ Bengali
 Bosnian
 Bulgarian
 Catalan
-Chinese (Simplified)
-Chinese (Traditional)
+Chinese_Simplified
+Chinese_Traditional
 Corsican
 Croatian
 Danish
@@ -41,7 +41,7 @@ Marathi
 Mongolian
 Nepali
 Norwegian
-Odia (Oriya)
+Odia_Oriya
 Pashto
 Persian
 Polish
