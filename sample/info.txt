@@ -1,4 +1,4 @@
-59
+58
 Amharic
 Arabic
 Armenian
@@ -6,7 +6,6 @@ Azerbaijani
 Bengali
 Bosnian
 Bulgarian
-Catalan
 Chinese_Simplified
 Chinese_Traditional
 Corsican
