@@ -1,15 +1,12 @@
-58
+55
 Amharic
 Arabic
 Armenian
 Azerbaijani
 Bengali
-Bosnian
 Bulgarian
 Chinese_Simplified
 Chinese_Traditional
-Corsican
-Croatian
 Danish
 Dutch
 English
