@@ -1,4 +1,4 @@
-55
+54
 Amharic
 Arabic
 Armenian
@@ -18,7 +18,6 @@ Georgian
 German
 Greek
 Gujarati
-Hawaiian
 Hebrew
 Hindi
 Icelandic
