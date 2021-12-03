@@ -1,0 +1,6 @@
+Filtreerige novellid Project Gutenbergi kohta Bungo Searchi lugemiseks kulunud aja järgi
+Mõned maailma suurimad autorid on kirjutanud uskumatuid lühijutte, sealhulgas O-suguseid lugusid. Henry, Sir Arthur Conan Doyle ja Edgar Allen Poe. Pärast nende autoriõiguse perioodi lõppemist saate neid tasuta lugeda saidil Project Gutenberg. Bungo Search on uus veebirakendus, et filtreerida projekti Gutenbergi pealkirju lugemisaja järgi.
+
+Lühijutu pikkus on teie enda otsustada. Valikuvõimalused on 5 minutit, 10 minutit, 30 minutit, üks tund, kaks tundi või kolm tundi. Selle lugemisaja aluseks on keskmine inimene, kes loeb 300 sõna minutis. Pealkirja valimiseks annab Bungo Search teile novelli nime ja autori nime koos katkendiga algusest ja selle populaarsusest Project Gutenbergis.
+
+Bungo Search lisab ka NGSL-i protsendi, mis on suurepärane tööriist neile, kes proovivad inglise keelt lugedes õppida. NGSL ehk uus üldteenuste loend on 2800 sõna sisaldav kogum, mida peetakse inglise keele lahutamatuks tuumaks. Mida suurem on loo NGSL-i protsent, seda hõlpsamalt saate selle keele kätte. Kogenud inglise lugejate jaoks tähendab NGSL-i kõrge kasutamine ka seda, et loete lugu kiiresti, ilma et peaksite sõnastikus pidevalt sõnu otsima.
