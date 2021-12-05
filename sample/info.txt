@@ -1,4 +1,4 @@
-52
+51
 Amharic
 Arabic
 Armenian
@@ -33,7 +33,6 @@ Lithuanian
 Malayalam
 Marathi
 Mongolian
-Nepali
 Norwegian
 Odia_Oriya
 Pashto
