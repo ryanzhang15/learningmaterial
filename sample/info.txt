@@ -1,4 +1,4 @@
-53
+52
 Amharic
 Arabic
 Armenian
@@ -30,7 +30,6 @@ Khmer
 Korean
 Kyrgyz
 Lithuanian
-Malay
 Malayalam
 Marathi
 Mongolian
