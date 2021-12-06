@@ -1,4 +1,4 @@
-51
+50
 Amharic
 Arabic
 Armenian
@@ -43,7 +43,6 @@ Punjabi
 Russian
 Sinhala
 Spanish
-Swedish
 Tamil
 Tatar
 Telugu

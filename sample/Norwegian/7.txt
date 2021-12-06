@@ -1,0 +1,20 @@
+Hovudmålet med autonom teoretisk lingvistikk er å karakterisere eigenskapane ved den menneskelege språkevna, eller deira språklege kunnskap. Ein ynskjer å forklare kva det er eit individ kan når dette individet snakkar eit språk, korleis denne kunnskapen oppstod, og korleis slik kunnskap interagerer med andre kognitive system. Alle menneske (dersom vi ser bort frå patologiske tilfelle) tileignar seg morsmålet sitt, det språket som blir nytta rundt dei i oppvekstmiljøet deira, om dette er eit talespråk eller eit teiknspråk. Dessutan oppnår dei slik kunnskap utan systematisk opplæring eller instruksjon. Dyrearter det er nærliggande å samanlikne oss med, har ikkje denne evna. Det må difor eksistere ein artsspesifikk genetisk skilnad mellom menneske og desse dyreartene, og denne skilnaden må liggje til grunn for den menneskelege evna til å tileigne seg språk. Dette er faktisk ukontroversielt. Det er mykje meir kontroversielt om denne artspesifikke, nedarva eigenskapen bør tenkjast på som ein spesialisert modul av den kognitive utrustinga vår som berre har med språk å gjere, altså ein språkspesifikk modul. Vi veit likevel at det finst område av hjernen som er vitale for språkevna vår, nemleg Brocas område og Wernickes område. Sidan barn tileignar seg ulike språk dersom dei veks opp i ulike språkmiljø, er det naturlegvis ingen genetisk basis for skilnadene mellom eit språk og eit anna.
+
+Språklege strukturar må representere relasjonen mellom tyding og lyd (eller andre metodar for eksternalisering, som i teiknspråk). Lingvistar kan spesialisere seg i ulike delar av slike lingvistiske strukturar, og desse delane kan arrangerast slik, frå lyd til tyding:
+
+Fonetikk, studiet av språklydar frå eit fysiologisk og akustisk perspektiv
+Fonologi, studiet av abstrakte strukturar og system for organisering av språklydar
+Morfologi, studiet av den interne strukturen i ord
+Syntaks, studiet av korleis ord kan kombinerast i grammatiske frasar og setningar
+Semantikk, studiet av tydinga til ord, faste uttrykk, og korleis desse kan kombinerast til dei komplekse tydingane til setningar
+Pragmatikk, studiet av korleis ytringar blir brukt i ytringskonteksten
+Diskursanalyse, studiet av setningar organisert i tekster
+Det er av og til eit kontroversielt tema om nokon av desse kategoriane er uavhengige av alle dei andre, og om nokre av dei bør slåast saman. Dei fleste lingvistar ville seie seg samde i at det er gråsoner mellom alle desse kategoriane.
+
+Andre spesialiseringsområde kombinerer desse felta med andre disiplinar:
+
+Språktileigning, studiet av korleis språktileigning fungerer
+Historisk lingvistikk eller diakron lingvistikk, studiet av utviklinga av ulike språk over tid
+Psykolingvistikk, studiet av kognitive prosessar og representasjonar som er relaterte til språkbruk
+Sosiolingvistikk, studiet av sosiale mønster i språkvariasjon
+Klinisk lingvistikk, applikasjon av lingvistisk teori til språkpatologiar
